@@ -10,9 +10,9 @@ Features:
 
 ## Project Index
 
-Backend (in Python) → [TangpingCup/gs-backend](https://github.com/TangpingCup/pa-frontend)
+Backend (in Python) → [TangpingCup/pa-backend](https://github.com/TangpingCup/pa-frontend)
 
-Frontend (in React) → [TangpingCup/gs-frontend](https://github.com/TangpingCup/pa-frontend)
+Frontend (in React) → [TangpingCup/pa-frontend](https://github.com/TangpingCup/pa-frontend)
 
 ## License
 
